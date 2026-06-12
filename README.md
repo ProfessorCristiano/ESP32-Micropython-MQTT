@@ -8,4 +8,8 @@ Funcionamento:
 
 - Após isso será possivel acessar um dashboard simples com os dados do banco de dados exibidos em forma de gráfico de linhas.
 
-OBS: o gráfico pode ficar visualmente feio se a base de dados estiver com intervalos de tempo grandes, como por exemplo dias entre as utilizações. A Sugestão é para demonstração sempre excluir a base no banco e recriá-la na hora da demonstração. 
+OBS1: o gráfico pode ficar visualmente feio se a base de dados estiver com intervalos de tempo grandes, como por exemplo dias entre as utilizações. A Sugestão é para demonstração sempre excluir a base no banco e recriá-la na hora da demonstração. 
+
+OBS2:
+Se quiserem testar já em um Wokwi 100% Funcional use o abaixo:
+https://wokwi.com/projects/380968388557073409
